@@ -1,4 +1,4 @@
-Class: Employees
+Class: Employee
 
 Attributes: 
 Name (string)
