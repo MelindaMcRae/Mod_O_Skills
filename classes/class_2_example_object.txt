@@ -1,0 +1,15 @@
+Object: Hamster
+
+Attributes: 
+Name: "Mr. Pickles"
+BirthYear: 2018
+InACage: True
+NickNamesByStudents ("Mr. Pick", "Pick", "Green Machine", "Picklies", "Fuzzy Wuzzy")
+Location: "Science Classroom"
+
+
+Methods:
+ClassroomTime: InACage: False
+StudentsVisitingClass ("M.P.", "Rat", "Mousey")
+Relocation: "Suzie's home"
+Age: 2019-2018 = 1
