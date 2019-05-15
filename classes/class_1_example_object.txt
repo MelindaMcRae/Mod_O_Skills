@@ -1,0 +1,15 @@
+Object: Teacher
+
+Attributes:
+Name: "Mrs. Parr"
+HireDate: 12/12/2014 
+Degree ("Associates", "Bachelors")
+PencilJarTotalCapacity: 165
+PencilJarCurrentCapacity: 65
+BirthYear: 1992
+
+Methods: 
+GetDoctorates: "Dr. Parr"
+GraduateGradSchool ("Associates Degree", "Bachelor's Degree", "Doctorate's Degree")
+ReplacePencils: 165-65 = 100
+Age: 2019-1992 = 27
