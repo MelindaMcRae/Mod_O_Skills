@@ -1,0 +1,25 @@
+Class: Teacher
+
+Attributes: 
+Name (string)
+HireDate (datetime)
+Degree (array)
+NumberOfPencils (integer)
+StolenPecils (integer)
+BirthYear (integer)
+
+
+
+Methods:
+GetMarried (changes the Name)
+GraduateGradSchool (append a degree to the Degree array)
+ReplacePencils (subtracts StolenPencils from NumberOfPencils and replaces that amount)
+Age (subtract current year from birth year)
+
+
+
+
+
+
+
+
