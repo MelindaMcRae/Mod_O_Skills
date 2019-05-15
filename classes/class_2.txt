@@ -1,0 +1,15 @@
+Class: ClassPet
+
+Attributes: 
+Name (string)
+BirthYear (integer)
+InACage (boolean)
+NickNamesByStudents (array)
+Location (string)
+
+
+Methods:
+ClassroomTime (subtract ClassPet from cage changes the answer to InACage)
+StudentsVisitingClass (Changes the possible NickNamesByStudents)
+Relocation (ClassPet moves to a different classroom, changing its Location)
+TakeHomeVisit (student takes home ClassPet, changing its Location)
